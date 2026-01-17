@@ -68,7 +68,7 @@ I work with real datasets and create dashboards in *Power BI, **Tableau, and **E
 
 ## 📫 Connect With Me  
 📧 *Email:* surbhideshmane25@gmail.com  
-🌐  *LinkedIn:* https://www.linkedin.com/in/surbhi-deshmane-9a2243314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+🌐  *LinkedIn:* https://www.linkedin.com/in/surbhideshmane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 
 ---
 
