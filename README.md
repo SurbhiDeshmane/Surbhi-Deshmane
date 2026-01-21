@@ -35,7 +35,7 @@ I work with real datasets and create dashboards in *Power BI, **Tableau, and **E
 - Built multi-page interactive market analysis dashboard  
 - Identified seasonal and neighborhood-level patterns  
 
-🔗 *Repo:* coming soon…
+🔗 *Repo:* SurbhiDeshmane/Airbnb_Dashboard
 
 ---
 
@@ -45,7 +45,7 @@ I work with real datasets and create dashboards in *Power BI, **Tableau, and **E
 - Highlighted key drivers such as education, job role, overtime, age groups  
 - Designed HR-friendly KPIs and actionable insights  
 
-🔗 *Repo:* coming soon…
+🔗 *Repo:*SurbhiDeshmane/HR-attrition-dashboard
 
 ---
 
@@ -55,7 +55,7 @@ I work with real datasets and create dashboards in *Power BI, **Tableau, and **E
 - Trend forecasting using visuals  
 - Identified top & low-performing product categories  
 
-🔗 *Repo:* coming soon…
+🔗 *Repo:* SurbhiDeshmane/GlobalSuperstore_dashboard
 
 ---
 
